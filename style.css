@@ -1,0 +1,62 @@
+body {margin:0; padding:0; background:url(images/body.jpg)}
+table, td {border-collapse:collapse;}
+table, td, img {border:0;}
+form, td {margin:0; padding:0;}
+td, tr {font:10px/12px tahoma, arial, helvetica, sans-serif; color:#888787; vertical-align:top;  text-align:left;}
+
+
+.end{ color:#888787; text-decoration:none; font-size:11px;}
+.end a{ color:#6E941A; text-decoration:underline;}
+.end a:hover{ color:#6E941A; text-decoration:none;}
+
+
+
+a{ color:#6E941A; text-decoration:underline;}
+a:hover{ color:#6E941A; text-decoration:none;}
+strong{ color:#6E941A;}
+
+
+
+
+
+.r1 ul { margin:0; padding:0; list-style:none;}
+.r1 li { background:url(images/r1.gif) top left no-repeat; margin:0 0 0 0; padding:0 0 0 14px; text-transform:uppercase; line-height:19px;}
+.r1 li a {color:#888787; text-decoration:none;  background-position:left center;}
+.r1 li a:hover { text-decoration:none; color:#6E941A;}
+
+/*###*/
+.menu td a {height:41px;display:block;text-decoration:none;}
+.menu td a:hover {text-decoration:none;}
+
+.menu td.m1 a  {width:103px;height:424px; background:url(images/m1.jpg) no-repeat;}
+.menu td.m1 a:hover {background:url(images/m1m.jpg) no-repeat top; }
+.menu td.m2 a{width:103px;height:424px; background:url(images/m2.jpg) no-repeat;}
+.menu td.m2 a:hover {background:url(images/m2m.jpg) no-repeat; }
+.menu td.m3 a  {width:104px;height:424px; background:url(images/m3.jpg) no-repeat;}
+.menu td.m3 a:hover {background:url(images/m3m.jpg) no-repeat; }
+.menu td.m4 a  {width:103px;height:424px; background:url(images/m4.jpg) no-repeat;}
+.menu td.m4 a:hover {background:url(images/m4m.jpg) no-repeat; }
+.menu td.m5 a  {width:105px;height:424px; background:url(images/m5.jpg) no-repeat;}
+.menu td.m5 a:hover {background:url(images/m5m.jpg) no-repeat; }
+
+.menu td.m6 a  {width:100px;height:539px; background:url(images/1d1.jpg) no-repeat;}
+.menu td.m6 a:hover {background:url(images/1d2.jpg) no-repeat; }
+.menu td.m7 a  {width:100px;height:539px; background:url(images/2d1.jpg) no-repeat;}
+.menu td.m7 a:hover {background:url(images/2d2.jpg) no-repeat; }
+.menu td.m8 a  {width:100px;height:539px; background:url(images/3d1.jpg) no-repeat;}
+.menu td.m8 a:hover {background:url(images/3d2.jpg) no-repeat; }
+.menu td.m9 a  {width:100px;height:539px; background:url(images/4d1.jpg) no-repeat;}
+.menu td.m9 a:hover {background:url(images/4d2.jpg) no-repeat; }
+.menu td.m10 a  {width:100px;height:539px; background:url(images/5d1.jpg) no-repeat;}
+.menu td.m10 a:hover {background:url(images/5d2.jpg) no-repeat; }
+.menu td.m11 a  {width:100px;height:539px; background:url(images/6d1.jpg) no-repeat;}
+.menu td.m11 a:hover {background:url(images/6d2.jpg) no-repeat; }
+/*###*/
+.a1{background:url(images/a_bgr.jpg) top left repeat-y; width:101px; height:100%;}
+.a1 table{width:101px; height:100%;}
+
+.f1 td input{ width:198px; height:21px; border:1px solid #141414; background:#1D1D1D; color:#888787; font-size:10px; padding:2px 0 1px 6px; margin-bottom:6px; font-family:tahoma;}
+.f1 td textarea{ width:198px; height:102px; border:1px solid #141414; background:#1D1D1D; color:#888787; font-size:10px; padding:2px 0 1px 6px; margin-bottom:6px; overflow:auto; font-family:tahoma;}
+
+
+
