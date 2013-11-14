@@ -1,4 +1,4 @@
-baseurl: /xiangtu_site
+# baseurl: /xiangtu_site
 markdown: rdiscount
 pygments: true
 permalink: none
