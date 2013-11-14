@@ -1,1 +1,28 @@
 baseurl: /xiangtu_site
+markdown: rdiscount
+pygments: true
+permalink: none
+sitename: 项目代码说明文档
+
+chapters:
+- organization
+- clientout
+- stateview
+- controllers
+- directives
+- filters
+- services
+- reader
+- shelf
+- Documents
+
+organization: 目录组织
+clientout: 外围文件
+stateview: 状态切换
+controllers: 控制器
+directives: 指令集
+filters: 过滤器
+services: 依赖服务
+reader: 第二界面视图
+shelf: 书架界面视图
+Documents: 教材仓库
