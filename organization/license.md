@@ -7,3 +7,5 @@ modifiedOn: 2013-11-14
 ---
 
 Authored by [左银右煌](http://grahamle.github.io/)
+
+Inspired by [阮一峰](http://www.ruanyifeng.com/)
